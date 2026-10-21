@@ -1,5 +1,9 @@
 # 让成果留在文件里——Deep Agents虚拟文件系统学习与实践
 
+## 学习材料
+
+https://datawhalechina.github.io/deepagents-in-action/chapters/ch03-virtual-filesystem/
+
 ## 核心概念
 
 ### 内置文件系统工具

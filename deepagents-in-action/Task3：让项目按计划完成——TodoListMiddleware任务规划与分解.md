@@ -1,6 +1,10 @@
 
 # 让项目按计划完成——TodoListMiddleware任务规划与分解
 
+## 学习材料
+
+https://datawhalechina.github.io/deepagents-in-action/chapters/ch04-task-planning/
+
 ## 核心概念
 
 ### 为什么 Agent 需要”规划”能力？
